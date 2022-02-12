@@ -17,8 +17,9 @@ I, John T. Bennett, agree to :
     -   I have checked that forked files, repos, or projects appear on
         my Github account and are accessible;
     -   I feel like I have spent an adequate amount of time and energy
-        on assignments;
-        <!-- (tentatively defining “adequate” based on Lab 1 and previous experience with R: I will spend at least 30 minutes on labs and at least 1 hour on portfolio pieces); -->
+        on assignments; tentatively defining “adequate” based on Lab 1
+        and previous experience with R: I will spend at least 30 minutes
+        on labs and at least 1 hour on portfolio pieces;
     -   My unessays are organized, thoughtful, and free of grammar
         mistakes or typos;
     -   My presentation is professional and engaging.
