@@ -3,7 +3,7 @@ Demo Grading Contract
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
-# Contract Grades – “A” Contract
+# Contract Grades – “A” Contract (Updated Feb. 12, 2022)
 
 I, John T. Bennett, agree to :
 
@@ -50,7 +50,7 @@ I, John T. Bennett, agree to :
 
 -   [ ] Module 05, 02/14 - 02/18 : Tips for effective data visualization
 
-    -   Finish Lab 5 by 02/25
+    -   Finish Lab 5 by 02/18
 
 -   [ ] Module 06, 02/21 - 02/25 : Scientific studies and confounding
 
