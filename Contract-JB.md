@@ -3,7 +3,7 @@ Grading Contract - John T. Bennett
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
-I, John T. Bennett, agree to :
+I, John T. BennettTEST, agree to :
 
 1.  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
