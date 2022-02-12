@@ -1,15 +1,13 @@
-Demo Grading Contract
+Grading Contract - John T. Bennett
 ================
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
-# Contract Grades – “A” Contract
-
-I, John Tukey, agree to :
+I, John T. Bennett, agree to :
 
 1.  Earn “Satisfactory” on 11 self-paced lab assignments on the schedule
     specified below.
-    -   Satisfactory defined:
+    -   Satisfactory is defined by the following criterea:
     -   I have attempted all steps of the assignment. If unable to
         complete steps due to unresolved questions, I have asked
         questions in Github FAQs or zoom help session, or I have Googled
@@ -18,7 +16,7 @@ I, John Tukey, agree to :
         my Github account and are accessible;
     -   I feel like I have spent an adequate amount of time and energy
         on assignments;
-        <!-- (tentatively defining “adequate” based on Lab 1 and previous experience with R: I will spend at least 30 minutes on labs and at least 1 hour on portfolio pieces); -->
+    -   Here, I am defining “adequate” based on Lab 1 and previous experience with R: I will spend at least 30 minutes on labs and at least 1 hour on portfolio pieces;
     -   My unessays are organized, thoughtful, and free of grammar
         mistakes or typos;
     -   My presentation is professional and engaging.
@@ -31,29 +29,34 @@ I, John Tukey, agree to :
 
 ## SCHEDULE
 
--   [ ] Module 01, 01/10 - 01/14 : What is Data Science and Meet the
+-   [ ] Module 01, 01/10 - 02/02 : What is Data Science and Meet the
     Toolkit
-    -   Finish Lab 1 by 01/14
--   [ ] Module 02, 01/17 - 01/21 : Data and Visualization
-    -   Finish Lab 2 by 01/21
--   [ ] Module 03, 01/24 - 01/28 : Grammar of data wrangling
-    -   Finish Lab 3 by 01/28
-    -   Finish portfolio piece 1 by 01/28
--   [ ] Module 04, 01/31 - 02/04 : Data types and Data Transformations
-    -   Finish Lab 4 by 02/04
--   [ ] Module 05, 02/07 - 02/11 : Tips for effective data visualization
-    -   Finish Lab 5 by 02/11
-    -   Finish portfolio piece 2 by 02/11
--   [ ] Module 06, 02/14 - 02/18 : Scientific studies and confounding
-    -   Finish Lab 6 by 02/18
+    -   Finish Lab 1 by 02/04
+-   [ ] Module 02, 02/07 - 02/11 : Data and Visualization
+    -   Finish Lab 2 by 02/11
+-   [ ] Module 03, 02/07 - 02/11 : Grammar of data wrangling
+
+-   [ ] Module 04, 02/14 - 02/18 : Data types and Data Transformations
+    -   Finish Lab 3 by 02/18
+    -   Finish Lab 4 by 02/18
+-   [ ] Module 05, 02/14 - 02/18 : Tips for effective data visualization
+
+-   [ ] Module 06, 02/21 - 02/25 : Scientific studies and confounding
+    -   Finish Lab 5 by 02/25
+    -   Finish Lab 6 by 02/25
+    -   Finish portfolio piece 1 by 02/25
+   
 -   [ ] Module 07, 02/21 - 02/25 : Web scraping
     -   Finish Lab 7 by 02/25
-    -   Finish portfolio piece 3 by 02/25
+    -   Finish portfolio piece 2 by 02/25
+    
 -   [ ] Module 08, 02/28 - 03/04 : Functions
     -   Finish Lab 8 by 03/04
+    -   Finish portfolio piece 3 by 03/04
     -   Finish Unessay 1 due on 03/04
 -   [ ] Module 09, 03/07 - 03/11 : Data and Ethics
     -   Finish Lab 9 by 03/11
+  
     -   Finish portfolio piece 4 by 03/11
 -   [ ] Module 10, 03/14 - 03/18 : Fitting and interpreting models
     -   Finish Lab 10 by 03/18
